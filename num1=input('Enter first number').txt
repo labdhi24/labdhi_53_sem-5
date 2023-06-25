@@ -1,0 +1,18 @@
+num1=input('Enter first number')
+num2=input('Enter second number')
+#add two number
+sum=float(num1)+float(num2)
+#sub two number
+min=float(num1)+float(num2)
+#multi two number
+multi=float(num1)+float(num2)
+#div two number
+div=float(num1)+float(num2)
+#Display the sum
+print('the sum of{0} and {1} is {2}'.format(num1,num2,sum))
+#Display the min
+print('the min of{0} and {1} is {2}'.format(num1,num2,sum))
+#Display the multi
+print('the multi of{0} and {1} is {2}'.format(num1,num2,sum))
+#Display the div
+print('the div of{0} and {1} is {2}'.format(num1,num2,sum))

@@ -1,0 +1,10 @@
+p=int(input("please enter value for p:"))
+Q=int(input("please enter value for Q:"))
+#To swap the value of two variable
+#we will user third variable which is a temporary variable 
+temp_1=p
+P=Q
+Q=temp_1
+print("The value of P after swapping",p)
+
+print("The value of Q after swapping",Q)
