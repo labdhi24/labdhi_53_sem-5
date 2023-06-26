@@ -14,3 +14,5 @@ print('The soluation are {0} and {1}'.format(sol1,sol2))
 hii
 
 my name is labdhi
+
+Gujarat university 
